@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wJcOjCkVuss_gkG0_xirgcorDoJq8lmd/view?usp=drive_link](https://drive.google.com/file/d/1wJcOjCkVuss_gkG0_xirgcorDoJq8lmd/view?usp=drive_link)
 
-- ⚡ Fun fact **I am Engineer🧑‍💻**
+- ⚡ Fact **I am Engineer🧑‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
