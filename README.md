@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar Das</h1>
 <h3 align="center">A passionate Web Developer, Software Developer</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=vikashkumardas-2001&label=Profile%20views&color=0e75b6&style=flat](https://github.com/VikashKumarDas-2001/VikashKumarDas-2001/blob/main/readme.gif)" alt="vikashkumardas-2001" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=vikashkumardas-2001&label=Profile%20views&color=0e75b6&style=flat] alt="vikashkumardas-2001" /> </p>
 
 - 🔭 I’m currently working on **Face Recognition Attendance System**
 
