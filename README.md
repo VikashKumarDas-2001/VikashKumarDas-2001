@@ -1,4 +1,4 @@
-![logo](https://github.com/VikashKumarDas-2001/VikashKumarDas-2001/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png)
+![logo](https://github.com/VikashKumarDas-2001/VikashKumarDas-2001/blob/main/readme.gif)
 <h1 align="center">Hi 👋, I'm Vikash Kumar Das</h1>
 <h3 align="center">A passionate Web Developer, Software Developer</h3>
 
